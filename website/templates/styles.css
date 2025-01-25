@@ -1,0 +1,9 @@
+.btn{
+    background-color: blue;
+}
+.message{
+    background-color: lightgray;
+}
+.contact{
+    display: flex;
+}
