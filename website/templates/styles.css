@@ -1,8 +1,9 @@
 .btn{
     background-color: blue;
 }
-.message{
-    background-color: lightgray;
+form{
+    background: grey;
+}
 }
 .contact{
     display: flex;
